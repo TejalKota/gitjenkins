@@ -1,6 +1,6 @@
 pipeline {
   environment {
-  registry = "tejalkota/assgn10"
+  registry = "tejalkota/poe"
   registryCredential = 'dockerhub_id'
   dockerImage = ''
 }
